@@ -1,0 +1,113 @@
+{
+  "num_features": [
+    "age",
+    "week_of_year",
+    "start_month",
+    "sessions",
+    "time_spent_hours",
+    "videos_watched",
+    "quiz_attempts",
+    "assignments_submitted",
+    "forum_posts",
+    "avg_quiz_score",
+    "attendance_rate"
+  ],
+  "cat_features": [
+    "country_region",
+    "device_type",
+    "education_background",
+    "course_level",
+    "course_category"
+  ],
+  "best_classifier": "Gradient Boosting Classifier",
+  "best_regressor": "Gradient Boosting Regressor",
+  "num_ranges": {
+    "age": [
+      16.0,
+      45.0,
+      24.0
+    ],
+    "week_of_year": [
+      1.0,
+      52.0,
+      27.0
+    ],
+    "start_month": [
+      1.0,
+      12.0,
+      7.0
+    ],
+    "sessions": [
+      1.0,
+      94.0,
+      17.0
+    ],
+    "time_spent_hours": [
+      0.6,
+      76.8,
+      16.1
+    ],
+    "videos_watched": [
+      0.0,
+      158.0,
+      23.0
+    ],
+    "quiz_attempts": [
+      0.0,
+      20.0,
+      7.0
+    ],
+    "assignments_submitted": [
+      0.0,
+      12.0,
+      4.0
+    ],
+    "forum_posts": [
+      0.0,
+      8.0,
+      1.0
+    ],
+    "avg_quiz_score": [
+      0.0,
+      100.0,
+      66.9
+    ],
+    "attendance_rate": [
+      0.313,
+      1.0,
+      0.855
+    ]
+  },
+  "cat_options": {
+    "country_region": [
+      "Africa",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Oceania"
+    ],
+    "device_type": [
+      "Laptop",
+      "Mobile",
+      "Tablet"
+    ],
+    "education_background": [
+      "Graduate",
+      "HighSchool",
+      "Undergrad",
+      "WorkingPro"
+    ],
+    "course_level": [
+      "Advanced",
+      "Beginner",
+      "Intermediate"
+    ],
+    "course_category": [
+      "Business",
+      "Data",
+      "Design",
+      "Marketing",
+      "Programming"
+    ]
+  }
+}
