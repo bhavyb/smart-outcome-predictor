@@ -230,20 +230,3 @@ Enter the student details, then get the **completion probability** and the **pre
 <p align="center"><i>Left: student likely to complete ✅ &nbsp;|&nbsp; Right: student unlikely to complete ❌</i></p>
 
 ---
-
-## ▶️ Run Locally
-
-```bash
-# 1. Clone
-git clone https://github.com/<your-username>/smart-outcome-predictor.git
-cd smart-outcome-predictor
-
-# 2. Install
-pip install -r requirements.txt
-
-# 3. Run the notebook (Kernel → Restart & Run All) → creates models/
-jupyter notebook Smart_Outcome_Predictor.ipynb
-
-# 4. Launch the app
-streamlit run app.py
-```
