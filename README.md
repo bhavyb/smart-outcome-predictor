@@ -12,7 +12,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-[🚀 **Live App**](#-live-links) · [🎥 **Video Explanation**](https://drive.google.com/drive/folders/10TaLdPimbQBO0FRz3j2JaiimH1kDOfyz) · [📓 **Notebook**](Smart_Outcome_Predictor.ipynb) · [📄 **Documentation**](Smart_Outcome_Predictor_Documentation.pdf)
+[🚀 **Live App**](#-live-links) · [🎥 **Video Explanation**](https://drive.google.com/drive/folders/10TaLdPimbQBO0FRz3j2JaiimH1kDOfyz) · [📓 **Notebook**](Smart_Outcome_Predictor.ipynb) · [📄 **Documentation**](Documentation.pdf)
 
 </div>
 
